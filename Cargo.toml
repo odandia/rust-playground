@@ -1,0 +1,4 @@
+[package]
+name = "str_reverse"
+version = "0.1.0"
+authors = ["Osman Dandia <odandia@gmail.com>"]
